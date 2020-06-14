@@ -1,5 +1,5 @@
 Esse projeto tem como objetivo capturar todo request e response e enviar para o Logstach.
-Para usa-lo siga o passo no seu projeto:
+Para usa-lo, insira essas dependencias no seu projeto: (Faça o download de tudo e veja o pom.xml do projeto demo que está nesse repositótio)
 1) 
     <dependency>
 			<groupId>com.logging.factory</groupId>
