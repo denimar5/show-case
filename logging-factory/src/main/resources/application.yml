@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: sample-app
+  logstash:
+    url: 192.168.99.100:5000

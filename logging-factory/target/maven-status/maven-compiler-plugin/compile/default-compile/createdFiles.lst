@@ -1,0 +1,6 @@
+com\logging\interceptor\ResponseWrapper.class
+com\logging\config\LoggingAutoConfig.class
+com\logging\filter\SpringLoggingFilter.class
+com\logging\interceptor\RequestWrapper$1.class
+com\logging\interceptor\RequestWrapper.class
+com\logging\interceptor\ServletOutputStreamWrapper.class
